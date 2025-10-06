@@ -1,0 +1,38 @@
+---
+title: "Tarea #1"
+author: "David Tencio Escobar"
+date: "2025-09-29"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    theme: cerulean
+  pdf_document: default
+  word_document: default
+params:
+  region: "Costa Rica"
+  year: 2025
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+## Cuestionario de la percepción de inseguridad ciudadana en mi comunidad
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRxR5Y4mNEKBfOvRUvJn1ivBjVH_PSjLSVvsJxRmFO2pVZHA/viewform?embedded=true" width="640" height="3097" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+
+
+
+## Acceso al forms del Cuestionario 1
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSdRxR5Y4mNEKBfOvRUvJn1ivBjVH_PSjLSVvsJxRmFO2pVZHA/viewform?usp=dialog
